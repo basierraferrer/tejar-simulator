@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tejar-simulator/static/css/main.c6fc5793.chunk.css",
+    "main.js": "/tejar-simulator/static/js/main.91a6392f.chunk.js",
+    "main.js.map": "/tejar-simulator/static/js/main.91a6392f.chunk.js.map",
+    "runtime-main.js": "/tejar-simulator/static/js/runtime-main.7f068da3.js",
+    "runtime-main.js.map": "/tejar-simulator/static/js/runtime-main.7f068da3.js.map",
+    "static/css/2.150d169a.chunk.css": "/tejar-simulator/static/css/2.150d169a.chunk.css",
+    "static/js/2.bcb163b2.chunk.js": "/tejar-simulator/static/js/2.bcb163b2.chunk.js",
+    "static/js/2.bcb163b2.chunk.js.map": "/tejar-simulator/static/js/2.bcb163b2.chunk.js.map",
+    "static/js/3.a087698b.chunk.js": "/tejar-simulator/static/js/3.a087698b.chunk.js",
+    "static/js/3.a087698b.chunk.js.map": "/tejar-simulator/static/js/3.a087698b.chunk.js.map",
+    "index.html": "/tejar-simulator/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/tejar-simulator/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c6fc5793.chunk.css.map": "/tejar-simulator/static/css/main.c6fc5793.chunk.css.map",
+    "static/js/2.bcb163b2.chunk.js.LICENSE.txt": "/tejar-simulator/static/js/2.bcb163b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f068da3.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.bcb163b2.chunk.js",
+    "static/css/main.c6fc5793.chunk.css",
+    "static/js/main.91a6392f.chunk.js"
+  ]
+}
